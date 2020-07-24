@@ -5,7 +5,7 @@
 This app taught me about the functionality of setState() and how to use it inside Stateful Flutter widgets.
 
 
-## What you will create
+## Outcome
 
  A dice app. One which can make the die roll at the press of a button. With this app in your pocket, you’ll be able to settle any score on the go!
 
