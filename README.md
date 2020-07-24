@@ -8,7 +8,9 @@ This app taught me about the functionality of setState() and how to use it insid
 ## Outcome
 
  A dice app. One which can make the die roll at the press of a button. With this app in your pocket, you’ll be able to settle any score on the go!
-
+<br>
+<img height="600" src="https://github.com/aniketgiriyalkar/Dice-app/blob/master/DiceAppOutput.PNG">
+<br>
 
 ## Learning points
 
